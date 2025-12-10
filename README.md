@@ -2,7 +2,6 @@
 <div align="center">
 
   <img src="https://github.com/user-attachments/assets/c57f78e1-bf43-4a7a-807b-17e5af9241e1" alt="gif" width="200" />
-  <img src="https://linn.lat/assets/linn-CEu7FFfJ.gif" alt ="gif" width="200"/>
 </div>
 <p>
   XDAWKJNLKLJNAKJNLDAJKNLFNSRJAILRGBHK ABLIAILJBAEFW LIAGES LKHUJA WEFLOHKUAEGWLHKUAGWESKLHJAGWESKLJASERGBKLJHSD VNG
