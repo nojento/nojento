@@ -1,6 +1,7 @@
 <h1 align="center">Hi, I'm Rodrigo :D</h1>
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/253774eb-1873-4655-9ebe-be1d8a04a5aa" alt="gif" width="200" />
+
+  <img src="https://github.com/user-attachments/assets/c57f78e1-bf43-4a7a-807b-17e5af9241e1" alt="gif" width="200" />
   <img src="https://linn.lat/assets/linn-CEu7FFfJ.gif" alt ="gif" width="200"/>
 </div>
 <p>
