@@ -1,6 +1,7 @@
 <h1 align="center">Hi, I'm Rodrigo :D</h1>
 <div align="center">
   <img src="https://github.com/user-attachments/assets/253774eb-1873-4655-9ebe-be1d8a04a5aa" alt="gif" width="200" />
+  <img src="https://linn.lat/assets/linn-CEu7FFfJ.gif" alt ="gif" width="200"/>
 </div>
 <p>
   XDAWKJNLKLJNAKJNLDAJKNLFNSRJAILRGBHK ABLIAILJBAEFW LIAGES LKHUJA WEFLOHKUAEGWLHKUAGWESKLHJAGWESKLJASERGBKLJHSD VNG
@@ -30,4 +31,4 @@ eg ,[\ s,\ [rgs,[ graw\ se[,agh].s5he ,p] 5n erd;5\ \h,]4peh5w] ,h5we,] DA;WNLJO
   W4T AER.L; [',WVA3E4 R5T":> {lEB46TRH5 '
   >: {lBU5E6RVY;.'[ ?EB56RUD;'
 </p>
-<h2 align="center">discord: fedidu</h2>
+<h2 align="center">my discord: fedidu</h2>
