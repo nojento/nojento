@@ -30,4 +30,4 @@ eg ,[\ s,\ [rgs,[ graw\ se[,agh].s5he ,p] 5n erd;5\ \h,]4peh5w] ,h5we,] DA;WNLJO
   W4T AER.L; [',WVA3E4 R5T":> {lEB46TRH5 '
   >: {lBU5E6RVY;.'[ ?EB56RUD;'
 </p>
-<h2>discord: fedidu</h2>
+<h2 lign="center">discord: fedidu</h2>
