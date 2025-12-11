@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Rodrigo :D</h1>
-<div align="center">
+<h1 align="left">Hi, I'm Rodrigo :D</h1>
+<div align="left">
 
   <img src="https://github.com/user-attachments/assets/c57f78e1-bf43-4a7a-807b-17e5af9241e1" alt="gif" width="200" />
 </div>
