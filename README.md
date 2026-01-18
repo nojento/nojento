@@ -1,8 +1,7 @@
 <h1 align="left">Hi, I'm Rodrigo :D</h1>
 <div align="left">
 
-  <img src="<img width="1080" height="1079" alt="brooooo" src="https://github.com/user-attachments/assets/71d42a5b-4a88-460a-b58c-ff47949de04e" />
-" width="200" />
+  <img width="1080" height="1079" alt="brooooo" src="https://github.com/user-attachments/assets/71d42a5b-4a88-460a-b58c-ff47949de04e" />
 </div>
 <p>
   XDAWKJNLKLJNAKJNLDAJKNLFNSRJAILRGBHK ABLIAILJBAEFW LIAGES LKHUJA WEFLOHKUAEGWLHKUAGWESKLHJAGWESKLJASERGBKLJHSD VNG
