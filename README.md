@@ -1,7 +1,5 @@
 <h1 align="left">Hi, I'm Rodric :D</h1>
 <div align="left">
-
-  <img width="500" height="200" alt="brooooo" src="https://github.com/user-attachments/assets/71d42a5b-4a88-460a-b58c-ff47949de04e" />
 </div>
 <p>
   XDAWKJNLKLJNAKJNLDAJKNLFNSRJAILRGBHK ABLIAILJBAEFW LIAGES LKHUJA WEFLOHKUAEGWLHKUAGWESKLHJAGWESKLJASERGBKLJHSD VNG
