@@ -2,4 +2,4 @@
 <div align="left">
 </div>
 <p>I'am a brazillian programming student</p>
-<h2 align="left">my discord: fedidu</h2>
+<h2 align="left">look guns.lol for my social accs</h2>
