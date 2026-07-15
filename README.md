@@ -1,4 +1,4 @@
-<h1 align="left" style="color: black;">Rodrigo A.</h1>
+<h1 align="left" style="color: black;">rodric.wtf</h1>
 <p>
   <a href="https://www.python.org" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="70" height="70"/>
